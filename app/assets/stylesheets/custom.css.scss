@@ -1,0 +1,22 @@
+@import "bootstrap";
+html {
+  overflow-y: scroll;
+}
+
+body {
+  padding-top: 60px;
+background-color: darkgray;
+}
+
+h1 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#woman {
+    float: right;
+}
+
+#man {
+    float: left;
+}
